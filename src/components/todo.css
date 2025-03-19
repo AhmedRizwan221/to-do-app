@@ -159,5 +159,10 @@
    #root {
     padding-inline: 10px;
    }
-   
+   .add-list-button {
+    padding: 7px 14px;
+   }
+   .btn {
+    width: 50%;
+   }
 }
