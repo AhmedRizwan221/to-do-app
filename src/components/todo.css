@@ -160,9 +160,15 @@
     padding-inline: 10px;
    }
    .add-list-button {
-    padding: 7px 14px;
+    padding: 7px 10px;
    }
    .btn {
     width: 50%;
+   }
+   .todo-container {
+    padding: 0;
+   }
+   .delete-button-heading {
+    padding: 7px 10px;
    }
 }
